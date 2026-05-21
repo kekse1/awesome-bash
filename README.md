@@ -138,6 +138,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 *Tools for writing, improving, or organizing Bash or other shell scripts*
 
+- [alinex bashlib](https://gitlab.com/alinex/bash-lib) - Modular bash library for server administration, data processing, and remote scripting.
 - [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
 - [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator.
 - [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
